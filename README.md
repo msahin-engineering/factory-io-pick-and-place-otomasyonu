@@ -80,3 +80,27 @@ Depoda TIA Portal V18 proje arşivi (`.zap18`) bulunmaktadır. Proje, uygun TIA 
 Bu depo, PLC programlama ve endüstriyel otomasyon alanında edinilen bilgileri uygulamak amacıyla hazırlanmış bir eğitim ve pratik çalışmasını belgelemektedir.
 
 Çalışmanın odak noktası, Factory I/O simülasyon ortamındaki sistem için Siemens S7-1200 PLC Ladder kontrol programının hazırlanması, giriş-çıkış eşleştirmelerinin yapılması ve S7-PLCSIM üzerinden çalışma mantığının test edilmesidir.
+
+## PLC Online İzleme ve Simülasyon Testleri
+
+Bu bölümde Siemens TIA Portal V18 üzerinde geliştirilen Ladder (LAD) programının S7-PLCSIM ile çevrim içi izlenmesine ait ekran görüntüleri yer almaktadır.
+
+### Sistem Başlatma ve Konveyör Kontrolü
+
+![PLC Online Sistem Start ve Konveyör](11-plc-online-sistem-start-ve-konveyor.png)
+
+### Ürün Tutma ve Transfer Kontrolü
+
+![PLC Online Ürün Tutma ve Transfer](12-plc-online-urun-tutma-ve-transfer.png)
+  
+
+
+
+
+
+
+
+
+
+
+
